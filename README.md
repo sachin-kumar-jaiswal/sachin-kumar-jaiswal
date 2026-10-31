@@ -12,12 +12,14 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-I design and build scalable, efficient, and user-centric web applications with a strong focus on modern full-stack development.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sachin-kumar-jaiswal/sachin-kumar-jaiswal/main/assets/profile-banner.svg" width="100%" alt="Profile Banner" />
+</div>
 
 ## 🚀 About Me
 
 Full Stack Developer with a strong focus on MERN stack development.  
-I build modern, scalable, and user-friendly web applications that solve real-world problems with clean architecture and modern technology.
+I design and build scalable, efficient, and user-centric web applications that solve real-world problems with clean architecture and modern technology.
 
 ## 🛠️ Tech Stack
 
@@ -61,6 +63,12 @@ I build modern, scalable, and user-friendly web applications that solve real-wor
 - Dashboard and admin panels
 - Business and portfolio platforms
 - Data-driven and user-centric digital experiences
+
+## 📊 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sachin-kumar-jaiswal/sachin-kumar-jaiswal/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="900" />
+</p>
 
 ## 📫 Connect With Me
 
